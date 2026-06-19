@@ -1,0 +1,7 @@
+This is the short report summarizing the findings in last problem of this week.
+
+- Firstly , I have calculated the survival rate group by the gender and it can be clearly seen that the survival rate of female is much higger than that of male.
+- Then we have calculated the average age group by the passengers class. It can be said that first class people are oldest people among all the passengers and third class people consist of mostly young people.
+- Then we count the number of passengers in each class. It can be seen that the first class have highest number of people and the thrid class has least number of people.
+- Then we have find out the class with highest survival rate. And it can be said that the class 2 have the highest survival rate.
+- Lastly we have calculated the average fair paid by each class of passengers. From that we can say that first class people are richer than other class people and third class people are younger and paid less as they have moved to get some work.
